@@ -141,7 +141,7 @@ export const initialData: CvData = {
     "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”\nFaculty of Informatics and Computer Engineering\nBachelor Degree, Computer Engineering, 2017 - 2021",
   awards: "",
   skills:
-    "Languages: TypeScript, JavaScript, SQL\nFrontend: React, all TanStack, Next.js, Tailwind CSS, shadcn/ui\nBackend: Node.js, Bun, PostgreSQL, MySQL, Redis\nTooling: oxc, Vite, Vitest",
+    "Languages: TypeScript, JavaScript, Python, SQL\nFrontend: React, all TanStack, Next.js, Tailwind CSS, shadcn/ui\nBackend: Node.js, Bun, PostgreSQL, MySQL, Redis\nInfrastructure: AWS, Docker, Kubernetes\nTooling: oxc, Vite, Vitest",
   taste:
     "TypeScript, Next.js, Bun, Vercel, TanStack, Drizzle, shadcn, OpenAI, T3 Code",
   inspirations:
