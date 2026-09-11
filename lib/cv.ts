@@ -71,7 +71,7 @@ export const blankProject: ProjectItem = {
 
 export const initialData: CvData = {
   name: "Alex Kostyniuk",
-  nameFontSize: "4.7",
+  nameFontSize: "4",
   role: "Software Engineer | Team Lead @ AMFG",
   email: "alexandru.costiniuc00@gmail.com",
   phone: "",
